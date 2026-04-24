@@ -1,2 +1,2 @@
-# AI-Based-Fake-Medicine-identification-
+# Fake-Medicine-identification-
 https://fake-medicine-identification.vercel.app/
