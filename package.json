@@ -1,0 +1,14 @@
+{
+  "name": "fake-medicine-identification",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd fake-medicine-idetification-master && npm run dev",
+    "build": "cd fake-medicine-idetification-master && npm run build",
+    "preview": "cd fake-medicine-idetification-master && npm run preview",
+    "install": "cd fake-medicine-idetification-master && npm install"
+  },
+  "workspaces": [
+    "fake-medicine-idetification-master"
+  ]
+}
